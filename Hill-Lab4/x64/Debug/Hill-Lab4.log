@@ -1,0 +1,3 @@
+﻿  Hill-Lab4.cpp
+C:\Users\hill531\source\repos\Hill-Lab4\Hill-Lab4\Hill-Lab4.cpp(74,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hill-Lab4.vcxproj -> C:\Users\hill531\source\repos\Hill-Lab4\x64\Debug\Hill-Lab4.exe
